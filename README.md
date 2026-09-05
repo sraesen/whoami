@@ -1,2 +1,16 @@
 # whoami
-a project for hackclub: pixl that will be used as my own personal resume and portfollio
+a project for hackclub: pixl that will be used as my own personal resume and portfolio
+
+the project has all things that would need to be included to a resume and portfolio including things like:
+- info
+- education
+- work
+- certificates
+- and a skillset
+
+i have used Gemini for some brainstorming on what do make it and what i should. further the coding is all done by myself. after knowing what i wanted to build and following the guide for the first site line by line i let Gemini make me a list of all the things i needed to add and where i needed to put it to make everything look pretty.    i made the english part and css entirly myself the dutch part i just pasted the code in Gemini and just pasted it in the dutch page
+
+
+## License / Copyright
+© 2026 Senn Raesen. All rights reserved. 
+This portfolio code is public for viewing purposes only. Unauthorized copying or reuse is strictly prohibited.
