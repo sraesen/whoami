@@ -1,6 +1,9 @@
 # whoami
 a project for hackclub: pixl that will be used as my own personal resume and portfolio
 
+## Description
+a personal resume and portfolio made by myself
+
 the project has all things that would need to be included to a resume and portfolio including things like:
 - info
 - education
@@ -9,6 +12,17 @@ the project has all things that would need to be included to a resume and portfo
 - and a skillset
 
 i have used Gemini for some brainstorming on what do make it and what i should. further the coding is all done by myself. after knowing what i wanted to build and following the guide for the first site line by line i let Gemini make me a list of all the things i needed to add and where i needed to put it to make everything look pretty.    i made the english part and css entirly myself the dutch part i just pasted the code in Gemini and just pasted it in the dutch page
+
+
+<img width="1358" height="654" alt="image" src="https://github.com/user-attachments/assets/1b2bdb97-c494-451d-9643-be89dc91b128" />
+
+## web languages used
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+
+
+
 
 
 ## License / Copyright
