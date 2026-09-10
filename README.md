@@ -18,7 +18,8 @@ i have used Gemini for some brainstorming on what do make it and what i should. 
 
 ## web languages used
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io)
+<img src="https://shields.io"/> <img src="https://shields.io"/>
+
 
 
 
